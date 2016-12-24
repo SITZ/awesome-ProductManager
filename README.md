@@ -2,15 +2,12 @@ Awesome Product Manager
 ======================
 > A curated list of awesome books, tools and other resources for Product Managers. Inspired by 'awesome-' repos. All PRs are welcomed to contribute to this awesome stuff.
 
-<!---
-[]()
--->
-
 ## Table of Contents
 - [Books](#books) 
 - [Web Resources](#web-resource)
 	- [Courses](#courses)
 	- [Essays](#essays)
+	- [Reading Lists](#reading-lists)
 	- [Mailing Lists](#mailing-lists)
 - [Tools](#tools)
 
@@ -38,6 +35,10 @@ Awesome Product Manager
 - [We are Product Managers](http://venturegeneratedcontent.com/2013/07/11/we-are-product-managers/?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferaceac&utm_medium=twitter) by [Satya Patel](https://twitter.com/satyap), Google Product Manager and ex-VP Product at Twitter.
 - [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) by [Josh Elman](https://medium.com/@joshelman), PM at Twitter, Facebook, LinkedIn. He gives a definition of task, responsibilty for Product Manager.
 
+#### Reading Lists
+- [I love Product Management](http://attackwithnumbers.com/i-love-product-management)
+- [53 Articles and Books that will Make you a Great Product Manager](https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7)
+
 #### Mailing Lists
 - [Mailing list from The Product Manager Handbook](http://us7.campaign-archive1.com/home/?u=2d088a4a12d4882e575ba320a&id=990d67eb21)
 
@@ -49,16 +50,5 @@ Awesome Product Manager
 
 ## Credits
 This awesome list is gathered from many resources on Internet, including these below sources but not limited:
-- [53 Articles and Books that will Make you a Great Product Manager](https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7)
 - [What are the best Books for Product Managers?](http://www.quora.com/What-are-the-best-Books-for-Product-Managers)
 - [The 10 Books Every Product Manager Should Read](http://pmblog.quora.com/The-10-Books-Every-Product-Manager-Should-Read)
-
-
-
-
-
-
-
-<!---
-[]()
--->
